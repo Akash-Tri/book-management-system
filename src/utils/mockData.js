@@ -42,7 +42,7 @@ export const books = [
     description:
       "A novella capturing the nuances of a changing India and middle-class life.",
     published: 1960,
-    image: "http://gadyakosh.org/gk/images/d/d7/Nirmalverma_ltkicha1.jpg",
+    image: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/59/8a/35/598a3567-4788-d0e4-a1fa-e2f79e1f52e5/9780430017014.jpg/1200x900wf.jpg",
   },
   {
     id: 6,
