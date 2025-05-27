@@ -25,7 +25,7 @@ function App() {
           className="search-input"
           onChange={(e) => setSearchText(e.target.value)}
         />
-        <button onClick={handleSearch}>Search</button>
+        <button onClick={handleSearch} className="search-btn">Search</button>
       </div>
       <BookStore bookData={filteredBooks} />
     </>
